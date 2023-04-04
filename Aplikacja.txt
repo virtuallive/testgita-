@@ -19,3 +19,8 @@ public void logowanieMicrosoft() {
         System.out.println("Podaj nazwe użytkownika microssoft");
         System.out.println("Podaj własciwe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+
+public void logowanie przypomniehasla() {
+        System.out.println("Podaj imie użytkownika");
+        
+    }
