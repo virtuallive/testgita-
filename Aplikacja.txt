@@ -22,3 +22,4 @@ public void logowanieMicrosoft() {
 
  public void przypomnijHasło() {
         System.out.println("kliknij na przycisk przypomnij hasło");
+}
