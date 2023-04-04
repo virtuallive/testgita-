@@ -3,3 +3,9 @@
         System.out.println("Podaj własciwe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+public void logowanie() {
+        System.out.println("Podaj nazwe użytkownika microssoft");
+        System.out.println("Podaj własciwe hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
