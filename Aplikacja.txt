@@ -5,8 +5,17 @@
     }
 
 
+
   public void logowanie() {
         System.out.println("Podaj email z gmail");
         System.out.println("Podaj  hasło");
+
+public void logowanieGoogle() {
+        System.out.println("Podaj nazwe użytkownika gmail");
+        System.out.println("Podaj własciwe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwe użytkownika microssoft");
+        System.out.println("Podaj własciwe hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
